@@ -13,16 +13,14 @@ $('.portada').parallax({
   });
   
   $('.fiesta').parallax({
-	imageSrc: 'images/fiesta.png'
+	imageSrc: 'images/seifratelli2.png'
   });
     
   $('.dj').parallax({
-	imageSrc: 'images/dj.jpg'
+	imageSrc: 'images/aj3_7807.jpg'
   });
 
-  $('.asistencia').parallax({
-	imageSrc: 'images/asistencia.png'
-  });
+ 
 
   
 })

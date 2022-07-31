@@ -18,21 +18,7 @@ body{
 .banner-text{
 	font-size: 10rem;	
 }
-.heart-divider{
-	height:100%; 
-	width:100%;
-	margin:0 auto; 
-	margin-top:1.25;
-	margin-bottom:1.25rem;
-	text-align:center;
-}
 
-.white-line{
-	width:10rem; 
-	height:8px;
-	display:inline-block;
-	border-top:solid 1px #FFF;
-}
 
 .css-logo{
 	width:100%; 
@@ -358,6 +344,12 @@ section.galeria .item-galeria a:hover img{
 
 /* CONFIRMAR ASISTENCIA */
 
+
+.asistencia {
+	background-color: var(--color-secundario);
+   
+}
+
 section.confirmar-asistencia{
   text-align: center;
   padding: 80px 0 100px;
@@ -437,8 +429,7 @@ section.protocolo p{
 /* Footer Section				 			 */
 /* ----------------------------------------------*/
 .footer {
-	background-color: var(--color-secundario);
-   
+color: var(--color-secundario);
 }
 
 #thank-you{
