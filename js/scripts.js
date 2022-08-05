@@ -13,7 +13,7 @@ $('.portada').parallax({
   });
   
   $('.fiesta').parallax({
-	imageSrc: 'images/seifratelli2.png'
+	imageSrc: 'images/seifratelli.png'
   });
     
   $('.dj').parallax({
